@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Active_Brake_DC_motor-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Active_Brake_DC_motor-altium-import.kicad_sym")(options "")(descr ""))
+)
